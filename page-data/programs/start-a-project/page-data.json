@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-programs-markdown-remark-frontmatter-slug-tsx",
+    "path": "/programs/start-a-project/",
+    "result": {"data":{"markdownRemark":{"html":"<h3>OVERVIEW</h3>\n<h4>Description</h4>\n<p>Learn popular tools used for machine learning</p>\n<h4>Goal</h4>\n<p>Introduce a few basic Python libraries</p>\n<h4>Pre-requisites</h4>\n<p>Introduce a few basic Python libraries</p>","frontmatter":{"title":"Byte-sized: How to start a project","tags":["🧩 Byte-sized Series"],"creators":["???"]}}},"pageContext":{"id":"aabbea87-ac6f-5f80-b1a8-cf299b797ba5","frontmatter__slug":"start-a-project","__params":{"frontmatter__slug":"start-a-project"}}},
+    "staticQueryHashes": []}

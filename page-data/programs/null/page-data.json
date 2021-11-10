@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-programs-markdown-remark-frontmatter-slug-tsx",
+    "path": "/programs/null/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"title":"Let’s git it","tags":["🧩 Byte-sized Series"],"creators":null}}},"pageContext":{"id":"010c1d49-8113-5305-adea-db628b4e0a35","frontmatter__slug":null,"__params":{"frontmatter__slug":"null"}}},
+    "staticQueryHashes": []}
