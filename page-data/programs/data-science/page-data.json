@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-programs-markdown-remark-frontmatter-slug-tsx",
-    "path": "/programs/data-science/",
-    "result": {"data":{"markdownRemark":{"html":"<h3>OVERVIEW</h3>\n<h4>Description</h4>\n<p>Learn popular tools used for machine learning</p>\n<h4>Goal</h4>\n<p>Introduce a few basic Python libraries</p>\n<h4>Pre-requisites</h4>\n<p>Introduce a few basic Python libraries</p>","frontmatter":{"title":"Data Science","tags":["💻 Workshop","🔨 Project"],"creators":["Heather Gibling","Mariana D’Angelo"]}}},"pageContext":{"id":"91320ba5-9f06-506b-9dd3-e5380f8c1b82","frontmatter__slug":"data-science","__params":{"frontmatter__slug":"data-science"}}},
-    "staticQueryHashes": []}
