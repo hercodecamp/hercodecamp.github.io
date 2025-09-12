@@ -239,7 +239,7 @@ export const Footer = () => (
       </div>
   </Marquee>*/}
 
-    <div className="flex justify-center h-10 gap-3 mb-4 text-gray-400 content-middle">
+    <div className="flex justify-center h-10 gap-8 mb-4 text-gray-400 content-middle">
       <a
         href="https://www.youtube.com/channel/UCa_Ck4Sdsq2QB21djQuFeCw"
         target="_blank"

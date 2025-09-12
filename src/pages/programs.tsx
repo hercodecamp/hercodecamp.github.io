@@ -89,20 +89,19 @@ const ProgramsPage: React.FunctionComponent<PageProps> = ({ data }) => {
             </div>
             <div className="col-span-5">
               <h3 className="flex flex-wrap items-center text-2xl font-bold gap-x-4 font-body">
-                Coming Soon
+                Ctrl+Alt+Slay: Code Your First Game
                 <Tag key={"1"} tag={"💻 Workshop"} />
               </h3>
               <p className="my-3 font-light">
-                We are excited to be hosting another workshop in 2025!
+                We are excited to be hosting another game development workshop in 2025!
               </p>
-              {/* <div className="font-bold">Important Dates:</div> */}
-              {/* <ul className="mb-4 list-disc list-inside">
-                <li>Applications Open: February 2nd, 2022</li>
-                <li>Application Deadline: March 6th, 2022</li>
-              </ul> */}
-              <Link to="return gtag_report_conversion('https://forms.gle/NucrwCuSvqD61pDi8');"
-href="https://forms.gle/NucrwCuSvqD61pDi8">
-                <IrisLinkButton>Keep me in the loop</IrisLinkButton>
+              { <div className="font-bold">Important Dates:</div>}
+              { <ul className="mb-4 list-disc list-inside">
+                <li>Applications Open: NOW</li>
+                <li>Application Deadline: Sept 19th, 2025</li>
+              </ul>}
+              <Link to="/programs/ctrl-alt-slay">
+                <IrisLinkButton>Learn more</IrisLinkButton>
               </Link>
             </div>
           </div>
