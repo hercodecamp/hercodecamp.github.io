@@ -8,7 +8,7 @@ blurb: "Lets match! Go from \"I've never coded before\" to \"I built this game m
 slug: ctrl-alt-slay
 ---
 
-![poster](/programs-ctrl-alt-slay-poster.png "ctrl-alt-slay")
+![poster](/programs-ctrl-alt-slay.png "ctrl-alt-slay")
 
 ### OVERVIEW
 
